@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://blooming-tor-61443.herokuapp.com/",
+  "change_calculator": "https://blip-react-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://blip-react-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://blip-react-sandiego-top-spots.herokuapp.com/",
+  "vstda": "https://blip-react-vstda.herokuapp.com/"
 }
